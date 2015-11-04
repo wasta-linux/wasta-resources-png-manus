@@ -1,0 +1,13 @@
+Source: wasta-resources-png-manus
+Section: doc
+Priority: extra
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: wasta-resources-png-manus
+Architecture: all
+Depends: wasta-resources, ${shlibs:Depends}, ${misc:Depends}
+Description: wasta-Linux PNG Manus Resources
+ wasta-Linux PNG Manus reference materials / documentation / resources.
+ Items installed to /usr/share/wasta-resources.
