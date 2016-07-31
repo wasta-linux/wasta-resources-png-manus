@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Sync Manus Resource Files
+Comment=Sync Manus Resources to User Documents folder
+Terminal=false
+Exec=/usr/share/wasta-resources-png-manus/wasta-resources-png-manus-login-sync-files.sh
+Type=Application
+Icon=wasta-linux
+Categories=Utility
+X-GNOME-Autostart-Delay=15
+

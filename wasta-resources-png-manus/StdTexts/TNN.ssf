@@ -1,0 +1,41 @@
+﻿<ScriptureText>
+  <Versification>4</Versification>
+  <CreatedWithPTW6>T</CreatedWithPTW6>
+  <Name>TNN</Name>
+  <Encoding>65001</Encoding>
+  <Language>English_TN</Language>
+  <DefaultFontSize>12</DefaultFontSize>
+  <FileNamePostPart>TNN.SFM</FileNamePostPart>
+  <FileNameBookNameForm>41MAT</FileNameBookNameForm>
+  <StyleSheet>usfm.sty</StyleSheet>
+  <ChapterMarker>c</ChapterMarker>
+  <VerseMarker>v</VerseMarker>
+  <FullName>Translator's Notes</FullName>
+  <Copyright>SIL International</Copyright>
+  <Editable>F</Editable>
+  <Guid>090f7cbf7924b245cf6405c482eeaa2e0bf87b52</Guid>
+  <NeedsEnglishLanguageFix>No</NeedsEnglishLanguageFix>
+  <NeedsPortugueseLanguageFix>No</NeedsPortugueseLanguageFix>
+  <Quotes>“ ”</Quotes>
+  <InnerQuotes>‘ ’</InnerQuotes>
+  <InnerInnerQuotes>“ ”</InnerInnerQuotes>
+  <ContinueQuotes>Yes</ContinueQuotes>
+  <VerboseQuotes>No</VerboseQuotes>
+  <ContinueAt>p p/q p/q1</ContinueAt>
+  <AdvancedView>False</AdvancedView>
+  <ValidPunctuation>‡ * _↑ _*_ '_ _↓_ _↑_ _⌋ ®_ ! ‡_ _†_ @ ] _# _| _…_ _]_ ⌊ ' _[_ _~ _—_ *_ ___ _|_ &amp; _. ...._ _”_ _) _~_ _•_ – _* _¶_ ¶_ ... • _┌_ _│_ _└_ _´ _“_ _‘_ _§ _{ }_ _;_ _= ?_ . _ _¶ _⌊ ⌋ _[ ]_ ’ __ ;_ …_ _• _… — ._ , ,_ :_ _©_ - ”_ ( ) _“ _( )_ _— _,_ _)_ _(_ ‘ _._</ValidPunctuation>
+  <SortByCount>No</SortByCount>
+  <Err_CountSFMsHeading>Marker,  Count,  Name (preceded by)</Err_CountSFMsHeading>
+  <LanguageIsoCode>:::</LanguageIsoCode>
+  <InitialImportBooksDirectory>C:\TN-Convert\English\MAT</InitialImportBooksDirectory>
+  <ValidCharacters>‌ ‍ υ σ # ο π ν כּ Œ p̄ @ ® י Ἀ τ ε ρ ω χ Μ α λ ί κ ὴ ṯ + &amp; ṭ ā = ḥ ṣ ś ä ḡ ḏ î ↓ | ḇ ḵ è ' Q ↑ * É δ ὑ ὠ ὀ ὰ θ ὸ ό } { § Τ ξ ώ Σ Π Ο ὄ ἡ ῦ ύ ἁ ὺ ἐ ´ † ά β ι μ ‡ ῖ ō ς έ └ │ ┌ ἀ ἰ γ φ ή ῃ ē ὶ η ~ g d u k b h 2 – 1 p H 6 - y 7 8 9 3 B K f 0 © w ’ o t S e N a r T l s n V q D . x j F W J ) ] ( 5 C ! Z ‘ m , — v P c z _ / Y ⌊ ⌋ ? • [ ʾ ; ʿ é ï X ç ü œ … ¶ ” ö “ I G E U : M i 4 R O L A š ǝ</ValidCharacters>
+  <DefaultFont>Times New Roman</DefaultFont>
+  <TranslationInfo />
+  <FileNamePrePart />
+  <FileNameChapterNumberForm />
+  <Directory>C:\My Paratext Projects\TNN</Directory>
+  <BooksPresent>100000010000000010010000000100010000001111000000011111111010111110000000000000000000000000001100000000000000000000000000000</BooksPresent>
+  <ResourceText>T</ResourceText>
+  <Zipped>T</Zipped>
+  <Naming PrePart="" PostPart="TNN.SFM" BookNameForm="41MAT" ChapterNumberForm="" />
+</ScriptureText>

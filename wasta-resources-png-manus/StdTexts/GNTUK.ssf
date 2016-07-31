@@ -1,0 +1,47 @@
+
+<ScriptureText>
+<ApBooksWithNumbers1>1MA 2MA 3MA 4MA 1ES 2ES PS2 1Ma 2Ma 3Ma 4Ma 1Es 2Es Ps2 </ApBooksWithNumbers1>
+<BooksPresent>111111111111111111111111111111111111111111111111111111111111111111111111111111001110000000000000000000000000000000000000000</BooksPresent>
+<CVseparator1>.</CVseparator1>
+<ContinueAt>p b/q1 pi s1/q1</ContinueAt>
+<ContinueInnerQuotes>Yes</ContinueInnerQuotes>
+<ContinueQuotes>Yes</ContinueQuotes>
+<Copyright>British and Foreign Bible Society</Copyright>
+<DecimalSep1>.</DecimalSep1>
+<Directory></Directory>
+<Editable>F</Editable>
+<Encoding>65001</Encoding>
+<FileNameChapterNumberForm></FileNameChapterNumberForm>
+<FileNameForm>41MAT</FileNameForm>
+<FileNamePostPart>GNTUK.SFM</FileNamePostPart>
+<FileNamePrePart></FileNamePrePart>
+<FinalPunc>”&gt;’.;,:!?</FinalPunc>
+<FullName>English: Good News Translation UK 1994</FullName>
+<InitialPunc>‘&lt;“ </InitialPunc>
+<InnerInnerQuotes>“ ”</InnerInnerQuotes>
+<InnerQuotes>‘ ’</InnerQuotes>
+<IsolatedPunc>-</IsolatedPunc>
+<Language>English</Language>
+<LeftToRight>T</LeftToRight>
+<MaxErrorCount>10</MaxErrorCount>
+<MedialPunc>-.</MedialPunc>
+<NTBooksWithNumbers1>1CO 2CO 1TH 2TH 1TI 2TI 1PE 2PE 1JN 2JN 3JN 1Co 2Co 1Th 2Th 1Ti 2Ti 1Pe 2Pe 1Jn 2Jn 3Jn</NTBooksWithNumbers1>
+<Name>GNTUK</Name>
+<NumberFinal1>)}&quot;&gt;’›”»'.!?%:],¢;</NumberFinal1>
+<NumberInitial1>-+&quot;({&lt;‘‹“«'[$</NumberInitial1>
+<NumberMedial1>—</NumberMedial1>
+<OTBooksWithNumbers1>1KI 2KI 1CH 2CH 1SA 2SA 1Ki 2Ki 1Ch 2Ch 1Sa 2Sa </OTBooksWithNumbers1>
+<Pairs>(/) [/] {/}</Pairs>
+<Punctuation>.,?:;!()[]&lt;&gt;-—</Punctuation>
+<Quotes>“ ”</Quotes>
+<ResourceText>T</ResourceText>
+<SegmentOrder>a b c d e f g h i j k l m n o p q r s t u v w x y z aa bb cc dd ee ff gg hh ii jj kk ll mm nn oo pp qq rr ss tt uu vv ww xx yy zz</SegmentOrder>
+<StyleSheet>usfm.sty</StyleSheet>
+<Suffix1>st nd rd th ST ND RD TH</Suffix1>
+<ThouSep1>,</ThouSep1>
+<VerboseQuotes>No</VerboseQuotes>
+<Versification>4</Versification>
+<Zipped></Zipped>
+<printCheckSetup>Yes</printCheckSetup>
+<Naming PostPart="GNTUK.SFM" BookNameForm="41MAT"></Naming>
+</ScriptureText>

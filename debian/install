@@ -1,2 +1,4 @@
 install-files/wasta-resources  usr/share
 wasta-resources-png-manus      usr/share
+install-files/xdg                    etc
+

@@ -1,0 +1,91 @@
+﻿<ScriptureText>
+  <AdvancedView>False</AdvancedView>
+  <CVseparator1>:</CVseparator1>
+  <ChapterMarker>c</ChapterMarker>
+  <CloseBy>\p</CloseBy>
+  <ClosedByParagraph>No</ClosedByParagraph>
+  <ContinueAt>p p/q1 b/q1 c/q1</ContinueAt>
+  <ContinueInnerQuotes>Yes</ContinueInnerQuotes>
+  <ContinueQuotes>Yes</ContinueQuotes>
+  <Copyright>United Bible Societies</Copyright>
+  <CreatedWithPTW6>T</CreatedWithPTW6>
+  <DefaultFont>Times New Roman</DefaultFont>
+  <DefaultFontSize>14</DefaultFontSize>
+  <Editable>F</Editable>
+  <Encoding>65001</Encoding>
+  <ExtractExpression.cms_parameter1>\\ms.*?\r\n</ExtractExpression.cms_parameter1>
+  <FileNameBookNameForm>41MAT</FileNameBookNameForm>
+  <FileNameForm>41MAT</FileNameForm>
+  <FileNamePostPart>HBKENG.SFM</FileNamePostPart>
+  <FinalPunc>”&gt;’.;,:!?...</FinalPunc>
+  <FindExpression.cms_parameter1>\:\r\n\\m</FindExpression.cms_parameter1>
+  <FullName>English: UBS Handbook Series (January 2012)</FullName>
+  <IgnoreTheseAfterNumber>)</IgnoreTheseAfterNumber>
+  <InitialPunc>‘&lt;“’-...</InitialPunc>
+  <InnerInnerQuotes>“ ”</InnerInnerQuotes>
+  <InnerQuotes>‘ ’</InnerQuotes>
+  <IntroductionOutlineStyles>io io1 io2 io3 io4</IntroductionOutlineStyles>
+  <IsolatedPunc>-</IsolatedPunc>
+  <Language>English_HBK</Language>
+  <LeftToRight>T</LeftToRight>
+  <MaxErrorCount>100</MaxErrorCount>
+  <MedialPunc>-.’:‘,</MedialPunc>
+  <Name>HBKENG</Name>
+  <NestMarkers>Yes</NestMarkers>
+  <NeverShowBackupReminder>T</NeverShowBackupReminder>
+  <Pairs>(/)</Pairs>
+  <PoeticStyles>ib iq iq1 iq2 iq3 q q1 q2 q3 q4 qc qr qs qa qac qm qm1 qm2 qm3 b</PoeticStyles>
+  <Quotes>“ ”</Quotes>
+  <RTL>No</RTL>
+  <RequireRMarkerToFollowSMarker>Yes</RequireRMarkerToFollowSMarker>
+  <ShowContext>No</ShowContext>
+  <SortByCount>Yes</SortByCount>
+  <StyleSheet>usfm_hbkeng.June2012.sty</StyleSheet>
+  <ValidPunctuation>._ _©_ ,_ _“ ”_ _( )_ ' _’ …_ :_ - ;_ – '_ ” — ?_ ’ , ‘ / _‘ ’_ ‘_ . _{ }_ _…_ ( _._ _(_ _)_ _,_ _:_ _[ ]_ _;_ !_ _“_ _' _•_ ? _”_ —_ -_ _‘_ _’_ _[_ _- "_ “ _/_ [ _— ) _/ _]_ (_ _!_ _—_ _) *_ _* _+_ _?_ %_ ] _-_ _=_ : … _◊_ /_ _&amp;_ _= [_ _&lt; &gt;_ _&lt;_ _&gt;_ _–_ ___ ! + _*_ = _'_ +_ _# _†_ _‡_ _§ _§_ _] &amp; _|_ =_ _{_ _}_ __ .... ~_ _~ ~ _~_ ′_</ValidPunctuation>
+  <VerboseQuotes>No</VerboseQuotes>
+  <VerseMarker>v</VerseMarker>
+  <Versification>4</Versification>
+  <WordlistRefreshBooksPresent>111011011111001111111101101011111111111111111111111111111111111111111111111100000011000000001000000000000000000000000000000</WordlistRefreshBooksPresent>
+  <WordlistSelectedBookString>000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000</WordlistSelectedBookString>
+  <WordlistTimeLastRetrievedSelectedBookString>04/02/2010 12:04:27 PM</WordlistTimeLastRetrievedSelectedBookString>
+  <extractExpressionVerse.cms_parameter1>\\rem.*\r\n</extractExpressionVerse.cms_parameter1>
+  <Err_OverlappingMarkers>Overlapping markers:</Err_OverlappingMarkers>
+  <Err_UnmatchedPunctuation>Unmatched punctuation</Err_UnmatchedPunctuation>
+  <Err_NoMatchedPairs>Must have at least one set of matched pairs defined</Err_NoMatchedPairs>
+  <Err_InvalidPair>Invalid pair:</Err_InvalidPair>
+  <Err_NotClosedBefore>Not closed before:</Err_NotClosedBefore>
+  <Guid>97196133a859179be2d2300c1f2af36a445ebbdd</Guid>
+  <Err_UnknownMarker>Unknown marker</Err_UnknownMarker>
+  <Err_UnmatchedEndMarker>Unmatched end marker</Err_UnmatchedEndMarker>
+  <Err_MarkerOutOfOrder>Marker out of order</Err_MarkerOutOfOrder>
+  <Err_MarkerCannotBeRepeated>Marker cannot be repeated</Err_MarkerCannotBeRepeated>
+  <Err_Invalid>in context  %s  not preceded by  (%s)</Err_Invalid>
+  <Err_InvalidNoContext>Not preceded by  (%s)</Err_InvalidNoContext>
+  <Err_UnclosedNoteMarker>Note marker has no end marker</Err_UnclosedNoteMarker>
+  <Err_UnclosedCharacterMarker>Character marker has no end marker</Err_UnclosedCharacterMarker>
+  <Err_InvalidRMarkerPosition>\r does not immediately follow \s, \s1, \s2, or \s3</Err_InvalidRMarkerPosition>
+  <Err_ErrorsSuppressed>Maximum Error Count exceeded, additional errors not shown</Err_ErrorsSuppressed>
+  <Err_ShouldNotBeEmpty>Should not be empty</Err_ShouldNotBeEmpty>
+  <Err_NoteCallerMissing>Note caller missing</Err_NoteCallerMissing>
+  <ValidCharacters>A H a n d b o k G e s i y W l m D . R u r E M c F U B S t N w Y © 1 9 7 h g v T f p x O , I q C J “ ” j – ( 2 5 0 6 ) ' L ’ … : 4 3 8 - ; V z Z K P — ? ‘ / { } œ é [ ] ! • X Q ד ר Ü * + % ½ = ç א בּ ב ג ה ו ז ח ט י כ ך ל מ ם נ ן ס ע פּ פ ף צ ק שׂ שׁ תּ ת í ­ ē ê ō ü ô ä ö ß ë è æ š î à â Ö Φ &amp; ñ É &lt; &gt; ó ¼ û ï _ Œ á ā ū β Ē α # γ δ ã ε η ζ Ō Ψ Β † ‡ § ī ø І ù | Ο θ Α Ω -'´— ‌ ‍ " ~ ′</ValidCharacters>
+  <InvalidPunctuation>­ _­ ­_ _: _­_ ..._ _– –_</InvalidPunctuation>
+  <NeedsEnglishLanguageFix>No</NeedsEnglishLanguageFix>
+  <NeedsPortugueseLanguageFix>No</NeedsPortugueseLanguageFix>
+  <MatchedPairingCharacters>( )</MatchedPairingCharacters>
+  <UnmatchedPairingCharacters>]</UnmatchedPairingCharacters>
+  <RepeatableWords>How Artisans lovers nations Idols Sihon Reproach Her enemies strongholds transgressions purposed bosom triumphed comforter despised groan Nimrim Book Samaria Charged Promise Relenting good Vermilion Pestilence Desire Thebes Nile Aroer Dibon Zedekiah Tents Rest Ahikam darkness JB Weeds every Lebanon Satisfied Of Land Policies Prophet Gaza These Staffs Lightning British Jehozadak Shinar Lord Melt o help Remove Tekoa Is cause purple pit Keep Thirst You Moresheth Stubble punish Ashdod Made I gods Favor Removed Good Diligent Vows Youths Shaped Treasuries HOTTP Consider Pit Myrrh Honor Scoffer Mind Ruach Soul Simple walls by has green bu mighty At Np love Sweet Evil Discretion Stumble Ways Spread Answer Heeded Engedi yoo-ROO-coo Hezekiah This Strength Tema FRCL until Canaan CEV Sheol Their paint Requital Flint rock All be Sworn Delighted Dross Sackcloth Tow Come with If Song El Spoil GECL Taunt GNB eyes Clouds NIV Pastures Maimed Allies Arrogance not Heart Plundered Midianites Fasted Temples Look Quickly again wise Beauty Cymbals Singlehanded Hades Voice Towers c b Flesh Instinct Klerōs Righteousness Scriptures Lot there Dystrus Gentiles Media Fornication Asiel bride Priests Naphtali Little Fervent Men Ephraim Branches Idea Empty Game will Sivan Hilkiah springs figure Order Peace Babylon Lamps Walk Reasoning Sins GNT Maxims Chastity water Abominations Forgetfulness Providence friendships Dominion Bloodshed Water Wickedness Opportunity Discipline Madness Loss Mercy kurie ho legion epistata elōi Barabbas hina TUHAN ekeina Jesus NAB By Bandit Simōn Ierousalēm work kai me treasure Authority death from Punishment Withered turned sick have sumposia duo metate prasiai all Man Abiathar Skull can Faith Outsiders Saints Prayer salvation name Understanding Law kindness Segond thing Pilot word covenant part Later Christ Truth Paul Grace how Obedience Receive anything Thessalonica Samothrace may perishing Titus Sin righteousness interprets acquitted Satan grain heap sword them arose divination reproach sheep lambs army Face men swords safely Camels distressed foremost companies hire divided gifts lentils famished spoken drink concubines Keturah Lands vow Hands hated weak harm household first-born flock unawares spirit council dainties sheepfolds statute desolate Couch see unmoved And NEB Sing Yah Israel oh For heaps the or pits house veil travailed destroyed Dothan behold plenty food Us journey cup Food unknown Storehouses hardship great very days generation Them brother cherubim likeness field determined man greatly mouth prevailed seven Decks floated Increased dust Tigris Havilah naked flesh YHWH Adam Pishon In that this said bread seed and God aprons Husband dry jesting place had lingered possessions persons people Shur feast known master well spring yonder Isaac answered Abraham him vineyard peopled these garment The you earth cloud language living strife in kinsman Nahor Speech Egypt Negeb Also Uzzi Inheritance Adar wine Pharaoh Wonders Jerusalem Seal Purim A evil desire Reshef Yahweh continually wrong KNOX Righteous so Asherim Joy Kinsmen Ethiopia Assyria Asaiah Adaiah Fathers Despised Shemaiah one Children Name Brethren Bani Bethhaccherem thither cornerstone regard loins acknowledge chastisement afflicted mirror abundantly Bronze Zion day many Sanctuary things like tongue Wisdom misery perverse Destruction vindicated shadow erred shouting Emptiness testimony jackals milk covering womb falsehood grave gold Bread Ahaziah Samuel Abinadab nor Ahitub she Maredsous Beth-Shemesh of Jesse Caleb figs Horonaim Nathan Ramah Argab David Paran to He is fathers Honey also LORD for It altars valley Valley it Sidon So offerings Bashan See foolishness There OSTY fifty Baked Syria Damascus Pieces Joseph Limped as Fire Ahab NJB Incited Fellow Ekron Dejectedly Zobah Chouraqui SEG anathoth Haggith Absalom Rogelim a Gibeon Court Officials Retinue Servants Earth Rafters Specifications Stood Outside</RepeatableWords>
+  <NonRepeatableWords>9</NonRepeatableWords>
+  <ValidUncapitalizedStyles>scv a2 io3 ch5 pi2 a3 bdit th1 q6 is2 q5 ch4 ims3 iq1 uw ili3 pc bd ch2 ch3 ch1 fr k man ipi3 io2 ipi2 ver li5 ili4 tcr2 tc3 tcr1 ms2 imi ms3 ord ms5 qm2 ft fp ipi qm3 iq3 q1 tec q2 qc tl a1 ms4 sup io6 q3 io4 res ili1 em heb mt3 mt4 grk p m scr vp li1 iq2 it im th2 ip aq1 ili2 ims2 io1 q4 mod ver1 tr tc1 s1 pi li tc2 li3 li4 ms6 li2 mi</ValidUncapitalizedStyles>
+  <InvalidUncapitalizedStyles>jmp—see</InvalidUncapitalizedStyles>
+  <ValidSentenceFinalPunctCapitalization>? / " [ ] ! % + ~ ′ = &gt; * … ' ’ ( , ” ) - ‘ . } ; : —</ValidSentenceFinalPunctCapitalization>
+  <NoteReferenceSeparator>.</NoteReferenceSeparator>
+  <Err_CountSFMsHeading>Marker,  Count,  Name (preceded by)</Err_CountSFMsHeading>
+  <LanguageIsoCode>:::</LanguageIsoCode>
+  <FileNamePrePart />
+  <FileNameChapterNumberForm />
+  <Directory>C:\My Paratext Projects\HBKENG</Directory>
+  <BooksPresent>111011011111001111111111101011111111111111111111111111111111111111111111111100000011000000001000000000000000100000000000000</BooksPresent>
+  <ResourceText>T</ResourceText>
+  <Zipped>T</Zipped>
+  <Naming PrePart="" PostPart="HBKENG.SFM" BookNameForm="41MAT" ChapterNumberForm="" />
+</ScriptureText>

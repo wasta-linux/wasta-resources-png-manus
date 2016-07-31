@@ -1,0 +1,41 @@
+﻿<ScriptureText>
+  <Versification>4</Versification>
+  <CreatedWithPTW6>T</CreatedWithPTW6>
+  <Name>TND</Name>
+  <Encoding>65001</Encoding>
+  <Language>English_TN</Language>
+  <DefaultFontSize>12</DefaultFontSize>
+  <FileNamePostPart>TND.SFM</FileNamePostPart>
+  <FileNameBookNameForm>41MAT</FileNameBookNameForm>
+  <StyleSheet>usfm.sty</StyleSheet>
+  <ChapterMarker>c</ChapterMarker>
+  <VerseMarker>v</VerseMarker>
+  <FullName>Translator's Notes Display</FullName>
+  <Copyright>SIL International</Copyright>
+  <Editable>F</Editable>
+  <Guid>b58b80b798e22be691ca02e2f4ccfd00b96f3e04</Guid>
+  <NeedsEnglishLanguageFix>No</NeedsEnglishLanguageFix>
+  <NeedsPortugueseLanguageFix>No</NeedsPortugueseLanguageFix>
+  <AdvancedView>False</AdvancedView>
+  <ValidCharacters>a A b B c C d D e E f F g G h H i I j J k K l L m M n N o O p P q Q r R s S t T u U v V w W x X y Y z Z - -- * ’ ‌ ‍ ! 1 2 5 6 ? ( ) . 4 ” _ “ ¶ — 7 3 © 0 , 9 8 ⌊ ® @ &amp; … ~ ; ⌋ /</ValidCharacters>
+  <Quotes>“ ”</Quotes>
+  <InnerQuotes>‘ ’</InnerQuotes>
+  <InnerInnerQuotes>“ ”</InnerInnerQuotes>
+  <ContinueQuotes>Yes</ContinueQuotes>
+  <VerboseQuotes>No</VerboseQuotes>
+  <ContinueAt>p p/q p/q1</ContinueAt>
+  <SortByCount>No</SortByCount>
+  <Err_CountSFMsHeading>Marker,  Count,  Name (preceded by)</Err_CountSFMsHeading>
+  <LanguageIsoCode>:::</LanguageIsoCode>
+  <ValidPunctuation>! _&amp;_ ⌋ ®_ ?_ ~_ _‘ ’_ : ‘ ? ” [ ) …</ValidPunctuation>
+  <InitialImportBooksDirectory>C:\TN-Convert\English\MAT</InitialImportBooksDirectory>
+  <DefaultFont>Times New Roman</DefaultFont>
+  <TranslationInfo />
+  <FileNamePrePart />
+  <FileNameChapterNumberForm />
+  <Directory>C:\My Paratext Projects\TND</Directory>
+  <BooksPresent>100000010000000010010000000100010000001111000000011111111010111110000000000000000000000000000000000000000000000000000000000</BooksPresent>
+  <ResourceText>T</ResourceText>
+  <Zipped>T</Zipped>
+  <Naming PrePart="" PostPart="TND.SFM" BookNameForm="41MAT" ChapterNumberForm="" />
+</ScriptureText>

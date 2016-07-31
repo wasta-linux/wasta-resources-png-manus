@@ -1,0 +1,29 @@
+
+<ScriptureText>
+<BooksPresent>111111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000</BooksPresent>
+<ContinueAt>p p/q1 b/q1 li1 pi pi/q1 s1/q1 m/q1 c/q1</ContinueAt>
+<ContinueInnerQuotes>Yes</ContinueInnerQuotes>
+<ContinueQuotes>Yes</ContinueQuotes>
+<Copyright>International Bible Society</Copyright>
+<Directory></Directory>
+<DotAll>No</DotAll>
+<Editable>F</Editable>
+<Encoding>65001</Encoding>
+<FileNameChapterNumberForm></FileNameChapterNumberForm>
+<FileNameForm>41MAT</FileNameForm>
+<FileNamePostPart>NIV84.SFM</FileNamePostPart>
+<FileNamePrePart></FileNamePrePart>
+<FullName>English: New International Version US 1984</FullName>
+<InnerInnerQuotes>“ ”</InnerInnerQuotes>
+<InnerQuotes>‘ ’</InnerQuotes>
+<Language>English</Language>
+<LeftToRight>T</LeftToRight>
+<Name>NIV84</Name>
+<Quotes>“ ”</Quotes>
+<ResourceText>T</ResourceText>
+<StyleSheet>usfm.sty</StyleSheet>
+<VerboseQuotes>No</VerboseQuotes>
+<Versification>4</Versification>
+<Zipped></Zipped>
+<Naming PostPart="NIV84.SFM" BookNameForm="41MAT"></Naming>
+</ScriptureText>

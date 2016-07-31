@@ -1,0 +1,31 @@
+
+<ScriptureText>
+<BooksPresent>111111111111111111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000</BooksPresent>
+<CVseparator1>:</CVseparator1>
+<ContinueInnerQuotes>Yes</ContinueInnerQuotes>
+<ContinueQuotes>Yes</ContinueQuotes>
+<Copyright></Copyright>
+<Directory></Directory>
+<Editable>F</Editable>
+<Encoding>65001</Encoding>
+<FileNameChapterNumberForm></FileNameChapterNumberForm>
+<FileNameForm>41MAT</FileNameForm>
+<FileNamePostPart>TPBU99.PTX</FileNamePostPart>
+<FileNamePrePart></FileNamePrePart>
+<FinalPunc>”&gt;’.;,:!?</FinalPunc>
+<FullName>Tok Pisin Bible Unicode 1999</FullName>
+<InitialPunc>‘&lt;“ </InitialPunc>
+<InnerInnerQuotes>&lt;&lt; &gt;&gt;</InnerInnerQuotes>
+<InnerQuotes>&lt; &gt;</InnerQuotes>
+<Language>Tok Pisin</Language>
+<LeftToRight>T</LeftToRight>
+<MedialPunc>-.,</MedialPunc>
+<Name>TPBU99</Name>
+<Quotes>&lt;&lt; &gt;&gt;</Quotes>
+<ResourceText>T</ResourceText>
+<SortByCount>No</SortByCount>
+<StyleSheet>usfm.sty</StyleSheet>
+<Versification>4</Versification>
+<Zipped></Zipped>
+<Naming PostPart="TPBU99.PTX" BookNameForm="41MAT"></Naming>
+</ScriptureText>
