@@ -1,0 +1,90 @@
+c File:		cros_nam.awk
+c Purpose:	Convert cross-reference book names
+c Usage:	cc -t cros_nam.cct ...
+c Description:	Select every \xr line and substitute all names on the left with
+c		the equivalent names on the right. Print all lines.
+c
+c Date:		Feb. 28, 1997
+c Type:		cc script
+c Written by:	Dan Bauman
+c Revisions:
+c	MM/DD/YY	Programmer	Description of change
+c
+
+c Only look at the cross-reference field
+group(main)
+"\xr"	> dup use(change)
+
+
+group(change)
+nl	> dup use(main)		c Return to the MAIN group
+endfile	> endfile
+
+c Change the first string to the second
+"Ge"	> "Jen."
+"Ex "	> "Eks. "
+"Lev"	> "Leb."
+"Nu"	> "Nam."
+"Dt"	> "Dut."
+"Jos"	> "Jos."
+"Jdg"	> "Nyek."
+"Ru"	> "Rut"
+"1Sa"	> "1 Sam."
+"2Sa"	> "2 Sam."
+"1Ki"	> "1 Kab."
+"2Ki"	> "2 Kab."
+"1Ch"	> "1 Kun."
+"2Ch"	> "2 Kun."
+"Ezr"	> "Esra"
+"Ne"	> "Neh."
+"Est"	> "Esta"
+"Job"	> "Jop"
+"Ps"	> "Wari"
+"Pr"	> "Tan."
+"Ecc"	> "Leh."
+"SS"	> "Sol."
+"Isa"	> "Ais."
+"Jer"	> "Jer."
+"La"	> "Ndrel."
+"Eze"	> "Isi."
+"Da"	> "Dan."
+"Hos"	> "Hos."
+"Joel"	> "Jow."
+"Am"	> "Amo."
+"Ob"	> "Oba."
+"Jnh"	> "Jona"
+"Mic"	> "Mai."
+"Na"	> "Nah."
+"Hab"	> "Hab."
+"Zep"	> "Sep."
+"Hag"	> "Hag."
+"Zec"	> "Sek."
+"Mal"	> "Mal."
+
+"Mt"	> "Met."
+"Mk"	> "Mak"
+"Lk"	> "Luk"
+"Jn"	> "Jon"
+"Ac"	> "Apo."
+"Ro"	> "Rom"
+"1Co"	> "1 Kor."
+"2Co"	> "2 Kor."
+"Gal"	> "Gal."
+"Eph"	> "Epe."
+"Php"	> "Pil."
+"Col"	> "Kol."
+"1Th"	> "1 Tes."
+"2Th"	> "2 Tes."
+"1Ti"	> "1 Tim."
+"2Ti"	> "2 Tim."
+"Tit"	> "Tai."
+"Phm"	> "Pai."
+"Heb"	> "Hib."
+"Jas"	> "Jem."
+"1Pe"	> "1 Pita"
+"2Pe"	> "2 Pita"
+"1Jn"	> "1 Jon"
+"2Jn"	> "2 Jon"
+"3Jn"	> "3 Jon"
+"Jude"	> "Jut"
+"Rev"	> "Reb."
