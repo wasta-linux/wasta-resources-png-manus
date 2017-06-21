@@ -1,3 +1,9 @@
+wasta-resources-png-manus (1.1.2) xenial; urgency=medium
+
+  * Tweaking of login startup script for non-simulation mode
+
+ -- Bill Martin <bill_martin@sil.org>  Wed, 21 Jun 2017 14:59:30 -0500
+
 wasta-resources-png-manus (1.1.1) xenial; urgency=medium
 
   * Add more translation resources for Manus

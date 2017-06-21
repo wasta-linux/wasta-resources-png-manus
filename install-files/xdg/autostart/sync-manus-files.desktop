@@ -6,5 +6,5 @@ Exec=/usr/share/wasta-resources-png-manus/wasta-resources-png-manus-login-sync-f
 Type=Application
 Icon=wasta-linux
 Categories=Utility
-X-GNOME-Autostart-Delay=15
+X-GNOME-Autostart-Delay=5
 

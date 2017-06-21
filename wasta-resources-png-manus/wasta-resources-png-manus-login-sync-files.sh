@@ -3,10 +3,13 @@
 # ==============================================================================
 # wasta-resources-png-manus-postinst.sh
 #
-#   This script is copied to /etc/profiles.d/ when the wasta-resources-png-manus
-#   package is installed. It is installed by the debian/install script as root.
-#   This script automatically run at each user login. It can be manually re-run, 
-#       but is only intended to be run at package installation.  
+#   This script is installed by the debian/install script as root.
+#   It is copied to the following system location:
+#   /usr/share/wasta-resources-png-manus/wasta-resources-png-manus-login-sync-files.sh 
+#   when the wasta-resources-png-manus package is installed, and gets listed in the
+#   Startup Applications applet, so that it runs automatically at each user login (after
+#   a 15 second delay).
+#   It can be manually re-run, but is only intended to be run at package installation.  
 #
 #   2016-07-25 whm: initial script
 #                   Copies resource docs from /usr/share/wasta-resources-png-manus
@@ -14,7 +17,8 @@
 #                   edit selected resource documents/files.
 #                   Uses the rsync --update option for copying to skip any files
 #                   for which the destination file already exists and has a date 
-#                   later than the source file. 
+#                   later than the source file.
+#   2017-06-21 whm: Tweaks of the script to get it to run in non-simulation mode. 
 #
 # ==============================================================================
 
@@ -35,26 +39,26 @@
 # Initial Setup
 # ------------------------------------------------------------------------------
 
-#echo
-#echo "*** Beginning wasta-resources-png-manus-login-sync-files.sh"
-#echo
+echo
+echo "*** Beginning wasta-resources-png-manus-login-sync-files.sh"
+echo
 
 # ------------------------------------------------------------------------------
 # Copy/Sync resources from /usr/share/wasta-resources-png-manus to user's Home dir
 # ------------------------------------------------------------------------------
-#echo
-#echo "*** Copying resources to user's Home directory"
+echo
+echo "*** Copying resources to user's Home directory"
 # Note: Calling logname and the environment's $USER return root during installation of packages
-# $SUDO_USER, however seems to work for determining the user's home directory name
-user=$SUDO_USER
+# but at login, $USER should return the actual user, for example bill in my case.
+user=$USER
 homeDir="/home/$user"
-#echo "Home Directory of user: user variable is $homeDir"
-#echo "Home Directory of user: USER variable is $USER"
+echo "The Home Directory of user: is $homeDir"
+echo "The user variable is $user"
 
 #echo "Dry Run calling (-n option) of rsync..."
-rsync -vrn --update "/usr/share/wasta-resources/PNG Manus Resources/" "$USER/Documents"
-rsync -vrn --update "/usr/share/wasta-resources-png-manus/Bible_Source_Texts/" "$USER/Documents/Bible_Source_Texts"
-rsync -vrn --update "/usr/share/wasta-resources-png-manus/StdTexts/" "$USER/StdTexts"
+rsync -vr --update "/usr/share/wasta-resources/PNG Manus Resources/" "$homeDir/Documents"
+rsync -vr --update "/usr/share/wasta-resources-png-manus/Bible_Source_Texts/" "$homeDir/Documents/Bible_Source_Texts"
+rsync -vr --update "/usr/share/wasta-resources-png-manus/StdTexts/" "$homeDir/StdTexts"
 
 #echo
 #echo "*** Adjusting ownership and permissions of copied files in user's Home directory"
@@ -70,8 +74,8 @@ rsync -vrn --update "/usr/share/wasta-resources-png-manus/StdTexts/" "$USER/StdT
 # Finished
 # ------------------------------------------------------------------------------
 
-#echo
-#echo "*** Finished with wasta-resources-png-manus-login-sync-files.sh"
-#echo
+echo
+echo "*** Finished with wasta-resources-png-manus-login-sync-files.sh"
+echo
 
 exit 0
